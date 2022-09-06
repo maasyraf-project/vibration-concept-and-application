@@ -1,4 +1,4 @@
-#Simple Harmonic Motion
+# Simple Harmonic Motion
 
 Simple harmonic motion has several characteristic, which define the motion of an object included
 on SHM or not.
